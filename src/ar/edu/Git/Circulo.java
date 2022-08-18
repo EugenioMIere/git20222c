@@ -6,6 +6,9 @@ public class Circulo {
 		// TODO Auto-generated method stub
 		
 	}
+	public void x() {
+		
+	}
 	
 
 }
